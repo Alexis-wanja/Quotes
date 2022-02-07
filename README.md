@@ -17,7 +17,7 @@ Languages used include CSS, HTML, Bootstrap and Angular CLI. This project was ge
 ## Behaviour Driven Devlopment(BDD)
 | Behaviour                |  Input                | Output                 |
 | -------------            | -------------         |------------------------|
-| Submited                  | Quote,Author,date     | adds Quote             |
+| Submited                  | Quote,Author         | adds Quote             |
 | -------------            | -------------         |------------------------|
 | Upvote                   |                       | adds quotes votes      |   
 | -------------            | -------------         |------------------------| 
