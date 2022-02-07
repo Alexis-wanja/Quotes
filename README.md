@@ -1,15 +1,26 @@
-# Quote
+# Project Name
+The name of this project is Quotes. It is an application that allows a user to create quotes they may deem as motivational
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.2.
+## Author
+The author of this project is Alexis Wanja.
 
-## Development server
+## Description
+The Quotes application allows a user to create a quote where they can be upvoted or downvoted and the number of quotes is visible to users. The option of deleting the quote is also available.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Setup/Installation Requirements
+A live link is present in the about section of this repository or otherwise repository may be cloned and opened in a web browser.
+Code can be viewed from a text editor such as visual studio or atom.
 
-## Code scaffolding
+## Technologies Used
+Languages used include CSS, HTML, Bootstrap and Angular CLI. This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.2.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Contact Information
+Means of communication is by email which is alexis.wanja@moringaschool.com
 
+### License
+MIT License
+Permission is granted to any person free of charge to modify the software.
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
